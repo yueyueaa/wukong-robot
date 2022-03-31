@@ -34,12 +34,6 @@
 * [配置](#配置)
 * [技能插件](#插件)
 * [API接口](#api-接口)
-* [捐赠](#捐赠)
-* [贡献](#贡献)
-* [联系](#联系)
-* [感谢](#感谢)
-* [FAQ](#faq)
-* [免责声明](#免责声明)
 
 ## 特性
 
@@ -164,64 +158,6 @@ do_not_bother:
 
 wukong-robot 的后台接口是开放 Web API 的，可以使用 Restful 方式调用，见 [后台API](https://wukong.hahack.com/#/api)。
 
-## 捐赠
-
-您的捐赠将鼓励我继续完善 wukong-robot。
-
-* 对于个人用户，可以使用支付宝或者微信进行捐赠，单笔超过 100 元的捐赠者，您的 ID 将可以出现在 wukong-robot 后台管理端的捐赠页面中。
-
- 
-| 支付宝 | 微信支付 |
-| ------ | --------- |
-| <img src="http://hahack.com/images/misc/alipay.png" height="248px" width="164px" title="支付宝" style="display:inherit;"/> | <img src="http://hahack.com/images/misc/wechatpay.jpeg" height="248px" width="164px" title="微信支付" style="display:inherit;"/> |
-
-如果以上的图裂了，可以下载图片（[支付宝](http://hahack.com/images/misc/alipay.png) | [微信](http://hahack.com/images/misc/wechatpay.jpeg)）到本地进行扫描。
-
-* 对于企业用户，建议[成为这个项目的 backer](https://opencollective.com/wukong-robot/contribute/tier/8131-sponsor)，您将可以把一个带链接的 logo 放在 wukong-robot 后台管理端的首页、捐赠页面以及 Github 项目首页中。
-
-<p>
-  <a href="https://opencollective.com/wukong-robot/sponsor/0/website" target="_blank"><img src="https://opencollective.com/wukong-robot/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/wukong-robot/sponsor/1/website" target="_blank"><img src="https://opencollective.com/wukong-robot/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/wukong-robot/sponsor/2/website" target="_blank"><img src="https://opencollective.com/wukong-robot/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/wukong-robot/sponsor/3/website" target="_blank"><img src="https://opencollective.com/wukong-robot/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/wukong-robot/sponsor/4/website" target="_blank"><img src="https://opencollective.com/wukong-robot/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/wukong-robot/sponsor/5/website" target="_blank"><img src="https://opencollective.com/wukong-robot/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/wukong-robot/sponsor/6/website" target="_blank"><img src="https://opencollective.com/wukong-robot/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/wukong-robot/sponsor/7/website" target="_blank"><img src="https://opencollective.com/wukong-robot/sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/wukong-robot/sponsor/8/website" target="_blank"><img src="https://opencollective.com/wukong-robot/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/wukong-robot/sponsor/9/website" target="_blank"><img src="https://opencollective.com/wukong-robot/sponsor/9/avatar.svg"></a>
-</p>
-
-## 贡献
-
-* 喜欢本项目请先打一颗星；
-* 提 bug 请到 [issue 页面](https://github.com/wzpan/wukong-robot/issues)；
-* 要贡献代码，欢迎 fork 之后再提 pull request；
-* 插件请提交到 [wukong-contrib](https://github.com/wzpan/wukong-contrib) ；
-
-## 联系
-
-* wukong-robot 的主要开发者是 [潘伟洲](http://hahack.com) 。
-* QQ 频道（推荐）：
-
-使用 QQ 扫码加入：
-
-![](https://wzpan-1253537070.cos.ap-guangzhou.myqcloud.com/misc/wukong-guild-qrcode-256.png)
-
-* QQ 群：580447290（人数将满，为控制人数，需付费20元入群。微信或支付宝支付后，申请入群时贴上转账单号即可。**群收入的前一万元已无偿捐赠给[壹基金等公益项目](https://hahack-1253537070.cos.ap-chengdu.myqcloud.com/images/donate.png)**）。
-
-| 支付宝 | 微信支付 |
-| ------ | --------- |
-| <img src="http://hahack.com/images/misc/alipay.png" height="248px" width="164px" title="支付宝" style="display:inherit;"/> | <img src="http://hahack.com/images/misc/wechatpay.jpeg" height="248px" width="164px" title="微信支付" style="display:inherit;"/> |
-
-如果以上的图裂了，可以下载图片（[支付宝](http://hahack.com/images/misc/alipay.png) | [微信](http://hahack.com/images/misc/wechatpay.jpeg)）到本地进行扫描。
-
-## 感谢
-
-* 悟空的前身是 [dingdang-robot](https://github.com/dingdang-robot/dingdang-robot) 项目和 [jasper-client](https://github.com/jasperproject/jasper-client) 项目。感谢 [Shubhro Saha](http://www.shubhro.com/), [Charles Marsh](http://www.crmarsh.com/) and [Jan Holthuis](http://homepage.ruhr-uni-bochum.de/Jan.Holthuis/) 在 Jasper 项目上做出的优秀贡献；
-* 感谢三咲智子提供了备选的后台管理端 Demo 体验地址。
-* 感谢 aliciacai 贡献的 wukong-robot 图标。
-* 感谢所有为[本项目](https://github.com/wzpan/wukong-robot/graphs/contributors)、 [wukong-contrib](https://github.com/wzpan/wukong-contrib/graphs/contributors) 项目以及[dingdang-robot](https://github.com/dingdang-robot/dingdang-robot/graphs/contributors) 项目做出过贡献的人！
 
 ## FAQ
 
